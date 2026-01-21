@@ -6,8 +6,8 @@ Este proyecto es una recreación del mítico juego arcade **Space Invaders**, de
 
 ## 🎮 Sobre el Proyecto
 Esta versión busca capturar la esencia del clásico original con mecánicas modernizadas.
-* **Estado:** En desarrollo
-* **Motor:** Unity (Versión 2022.3 LTS o la que uses)
+* **Estado:** Finalizado
+* **Motor:** Unity
 * **Lenguaje:** C#
 
 ## 🕹️ Controles
@@ -19,10 +19,20 @@ Esta versión busca capturar la esencia del clásico original con mecánicas mod
 ## 🛠️ Características Implementadas
 * [x] Movimiento del jugador restringido a los bordes.
 * [x] Sistema de disparo y destrucción de enemigos.
-* [x] IA básica de enemigos (movimiento en bloque y descenso).
+* [x] IA básica de enemigos.
 * [x] Sistema de puntuación (Score).
 
 ## 📦 Cómo probar el juego
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/TU_USUARIO/Space-Invaders.git](https://github.com/TU_USUARIO/Space-Invaders.git)
+   git clone https://github.com/hubertkurdziel/Space_Invaders.git
+
+2. Abre Unity Hub.
+
+3. Dale a Add y selecciona la carpeta del proyecto.
+
+4. Abre la escena principal dentro de Scenes.
+
+5. ¡Dale al Play!
+-----------------------------------------------------------------------------------------------------------------
+Desarrollado por: Hubert Kurdziel
